@@ -1,0 +1,2 @@
+1. The Microsoft Word file is the report of the logic for each question.
+2. I put all the codes together as one .cpp file, so you just need to click addGaussianNoise.exe in the Debug folder that it could run automatically. In the program, you should press space button to move on.
